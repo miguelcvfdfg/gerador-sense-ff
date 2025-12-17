@@ -1,2 +1,1 @@
-# gerador-sense-ff
-Gerador de sensi 
+# gerador de sense#
